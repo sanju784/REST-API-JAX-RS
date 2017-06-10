@@ -1,5 +1,7 @@
 # RESTful-API-JAX-RS
 
+Here developing APIs in Java using jersey.
+
 
 Developed 4 Api to perform CRUD operations using GET, POST, PUT, DELETE Request Method.
 
